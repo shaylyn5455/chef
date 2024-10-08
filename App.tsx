@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginVertical: 10,
     color: '#333',
-    backgroundColor: '#f0e68c',
+    backgroundColor: '#0077b6',
     padding: 10,
     borderRadius: 5,
     textAlign: 'center',
